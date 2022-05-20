@@ -20,15 +20,15 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Albedo_BC:
-        m_Texture: {fileID: 2800000, guid: fa02260fd37372c45b0fe4f6b4393707, type: 3}
+        m_Texture: {fileID: 2800000, guid: 48be407cdb5acc941b66c4516e9abaab, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Emission_Tex:
-        m_Texture: {fileID: 2800000, guid: b9af533a68983574799c74d5aa8e0706, type: 3}
+        m_Texture: {fileID: 2800000, guid: e9ba736e39ec7c042882bd5a83f817c9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Normals_Tex:
-        m_Texture: {fileID: 2800000, guid: 999e5dc707dcd0c43802ea8124500d58, type: 3}
+        m_Texture: {fileID: 2800000, guid: 27d25dbeb8b372b4ba107275ebc196f1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Paralax_Tex:
@@ -56,6 +56,6 @@ Material:
     - Smoothness: 0.75
     - Strenght: 1
     m_Colors:
-    - Color_Crystal: {r: 1.9766746, g: 0.4967559, b: 0, a: 1}
-    - Color_Crystal_A: {r: 3.9461172, g: 2.9190457, b: 0, a: 1}
+    - Color_Crystal: {r: 1.9766746, g: 0.4967559, b: 0, a: 0}
+    - Color_Crystal_A: {r: 3.9461172, g: 2.9190457, b: 0, a: 0}
   m_BuildTextureStacks: []
