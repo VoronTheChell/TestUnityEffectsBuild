@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: tornadoMaterial
-  m_Shader: {fileID: -6465566751694194690, guid: 4a3c37f7430280a4190e4f51ea2b9687, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 0cf513f2ad8c24b40b7f2c37a19f10ce, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -97,6 +97,7 @@ Material:
     - _NoiseScale: 20
     - _OcclusionStrength: 1
     - _Parallax: 0.005
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
@@ -112,12 +113,12 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 1.6308752, g: 0, b: 103.96829, a: 1}
+    - _Color: {r: 9.734288, g: 1.5799105, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _NoiseSpeed: {r: 0, g: -0.5, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _TwirlCenter: {r: 0.5, g: 0.5, b: 0, a: 0}
-    - _TwirlSpeed: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _TwirlCenter: {r: 0.5, g: -0.5, b: 0, a: 0}
+    - _TwirlSpeed: {r: 1, g: 1.5, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &1449628562233521069
 MonoBehaviour:
@@ -131,4 +132,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 4
+  version: 5

@@ -56,6 +56,6 @@ Material:
     - Smoothness: 0.75
     - Strenght: 1
     m_Colors:
-    - Color_Crystal: {r: 1.9766746, g: 0.4967559, b: 0, a: 0}
+    - Color_Crystal: {r: 0.15686275, g: 0.03137255, b: 0, a: 0}
     - Color_Crystal_A: {r: 3.9461172, g: 2.9190457, b: 0, a: 0}
   m_BuildTextureStacks: []

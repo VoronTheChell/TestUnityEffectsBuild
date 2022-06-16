@@ -90,8 +90,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - AlphaClip_: 0.72
-    - CloudsAlpha_: 1.58
-    - CloudsPower_: 0.42
+    - CloudsAlpha_: 0.88
+    - CloudsPower_: 0.5
     - CloudsScale_: 120
     - DishortScale_: 60
     - VertexOffset: 0.16
