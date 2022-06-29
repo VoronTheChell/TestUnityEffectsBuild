@@ -52,8 +52,9 @@ Material:
     - Fresnel_Strength: 1.36
     - Metallic_: 1
     - Offset_Alberto: -1.22
+    - Slit_Tex: 1.5
     - Smoothness: 1.13
     - Strenght: -0.05
     m_Colors:
-    - Color_Crystal: {r: 0.17562975, g: 0.05854325, b: 0, a: 1}
+    - Color_Crystal: {r: 0.98833734, g: 0.33117065, b: 0, a: 1}
   m_BuildTextureStacks: []
