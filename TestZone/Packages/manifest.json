@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.unity.cinemachine": "2.6.11",
+    "com.unity.cinemachine": "2.6.15",
     "com.unity.collab-proxy": "1.9.0",
     "com.unity.ext.nunit": "1.0.0",
     "com.unity.ide.rider": "2.0.7",
@@ -10,7 +10,7 @@
     "com.unity.postprocessing": "3.1.1",
     "com.unity.recorder": "2.5.7",
     "com.unity.render-pipelines.universal": "10.6.0",
-    "com.unity.test-framework": "1.1.30",
+    "com.unity.test-framework": "1.1.33",
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.4.8",
     "com.unity.ugui": "1.0.0",
