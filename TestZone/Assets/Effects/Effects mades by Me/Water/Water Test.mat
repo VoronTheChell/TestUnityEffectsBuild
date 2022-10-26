@@ -43,6 +43,6 @@ Material:
     - Smoothness_Set: 1
     - VertexDisplancement: 0.05
     m_Colors:
-    - Color_Water: {r: 5.2164745, g: 1.468585, b: 0, a: 1}
+    - Color_Water: {r: 23.236914, g: 3.3872254, b: 0, a: 1}
     - SpecularColor_Set: {r: 0.0007314645, g: 0.0007314645, b: 0.0007314645, a: 1}
   m_BuildTextureStacks: []
