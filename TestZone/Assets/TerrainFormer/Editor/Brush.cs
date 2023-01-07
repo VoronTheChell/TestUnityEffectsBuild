@@ -105,7 +105,7 @@ namespace JesseStiller.TerrainFormerExtension {
                 TerrainFormerEditor.brushProjectorTexture.hideFlags = HideFlags.HideAndDontSave;
                 TerrainFormerEditor.brushProjectorTexture.wrapMode = TextureWrapMode.Clamp;
             } else if(TerrainFormerEditor.brushProjectorTexture.width != pixelsPerAxis && TerrainFormerEditor.brushProjectorTexture.height != pixelsPerAxis) {
-                TerrainFormerEditor.brushProjectorTexture.Resize(pixelsPerAxis, pixelsPerAxis);
+                TerrainFormerEditor.brushProjectorTexture.Reinitialize(pixelsPerAxis, pixelsPerAxis);
             }
 
             samples = GenerateTextureSamples(pixelsPerAxis);
@@ -140,7 +140,7 @@ namespace JesseStiller.TerrainFormerExtension {
                 previewTexture.wrapMode = TextureWrapMode.Clamp;
                 previewTexture.hideFlags = HideFlags.HideAndDontSave;
             } else if(previewTexture.width != Settings.cached.brushPreviewSize || previewTexture.height != Settings.cached.brushPreviewSize) {
-                previewTexture.Resize(Settings.cached.brushPreviewSize, Settings.cached.brushPreviewSize);
+                previewTexture.Reinitialize(Settings.cached.brushPreviewSize, Settings.cached.brushPreviewSize);
             }
 
 			float[,] previewSamples = GenerateTextureSamples(Settings.cached.brushPreviewSize);
