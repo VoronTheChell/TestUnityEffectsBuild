@@ -56,7 +56,7 @@ Material:
     m_Floats:
     - _Dissolve: 1
     - _DissolveRdgeThickness: 0.11
-    - _DissolveStartHeight: 1.69
+    - _DissolveStartHeight: 1.62
     - _DotsNoiseScale: -11.46
     - _DotsSize: -4
     - _MaskPower: 1.5
