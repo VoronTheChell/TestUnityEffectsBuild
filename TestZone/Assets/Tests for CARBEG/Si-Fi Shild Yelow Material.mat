@@ -66,7 +66,7 @@ Material:
     - _VertexEfffect: 0.15
     m_Colors:
     - Color_Portal: {r: 2.5445025, g: 2.15, b: 0, a: 1}
-    - Fresnel_Color: {r: 10.196485, g: 10.196485, b: 10.196485, a: 1}
+    - Fresnel_Color: {r: 766.9961, g: 766.9961, b: 766.9961, a: 1}
     - _Color: {r: 1, g: 0.004716992, b: 0.004716992, a: 1}
     - _FresnelColor: {r: 1, g: 0, b: 0.4678744, a: 1}
   m_BuildTextureStacks: []

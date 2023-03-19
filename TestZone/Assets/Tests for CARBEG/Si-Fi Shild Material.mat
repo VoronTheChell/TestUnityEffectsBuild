@@ -49,12 +49,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Fresnel_Power: 5.58
-    - Noice_Speed: 0.45
+    - Fresnel_Power: 390.2
+    - Noice_Speed: 0.5
     - Opacity: 1
     - PixelSnap: 0
     - Use_fresnel: 1
-    - Vectex_offcet: 0.15
+    - Vectex_offcet: 0.31
     - _Cutoff: 0.5
     - _Emission: 2
     - _Fresnel: 1
@@ -65,8 +65,8 @@ Material:
     - _UseFresnel: 0
     - _VertexEfffect: 0.15
     m_Colors:
-    - Color_Portal: {r: 0, g: 1.6532547, b: 2.5445025, a: 1}
-    - Fresnel_Color: {r: 0.09424102, g: 10.864522, b: 18, a: 1}
+    - Color_Portal: {r: 1024, g: 0, b: 136.8247, a: 1}
+    - Fresnel_Color: {r: 1024, g: 103.00248, b: 0, a: 1}
     - _Color: {r: 1, g: 0.004716992, b: 0.004716992, a: 1}
     - _FresnelColor: {r: 1, g: 0, b: 0.4678744, a: 1}
   m_BuildTextureStacks: []
